@@ -1,0 +1,27 @@
+{
+  "name": "soupro-api",
+  "version": "1.0.0",
+  "description": "Angolan freelancers platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonmfinda/soupro-api.git"
+  },
+  "keywords": [
+    "freelancer",
+    "profissional",
+    "angolan",
+    "work",
+    "time",
+    "money"
+  ],
+  "author": "Nelson Mfinda <nelsonmfinda@hotmail.com> (https://nelsonmfinda.me/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nelsonmfinda/soupro-api/issues"
+  },
+  "homepage": "https://github.com/nelsonmfinda/soupro-api#readme"
+}
