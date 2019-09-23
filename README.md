@@ -7,7 +7,7 @@ Encontre o melhor profissional para executar o teu serviço ou projecto, obtenha
 Eu Sou Pro! E você?
 Junte-se a nós, via `https://agora.sou.pro`
 
-(Repositório)[https://github.com/nelsonmfinda/soupro-mobile/] da app mobile desenvolvida com Flutter
+[Repositório](https://github.com/nelsonmfinda/soupro-mobile/) da app mobile desenvolvida com Flutter
 
 ## Pré-requisitos
 
