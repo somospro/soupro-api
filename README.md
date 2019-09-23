@@ -1,6 +1,6 @@
 # Sou Pro - REST API
 
-*Projecto prático para a disciplina de Administração de Base de Dados - Universidade Metodista de Angola
+> Projecto prático para a disciplina de Administração de Base de Dados - Universidade Metodista de Angola
 
 Encontre o melhor profissional para executar o teu serviço ou projecto, obtenha o melhor serviço que compara preços, recomende um profissional por uma experiência ou trabalho. Se você é profissional, anuncie gratuitamente e obtenha clientes em sua área.
 
